@@ -3,7 +3,10 @@ At Code Craft Intern . App Development, AD , Task-01
 # 🔢 Calculator App
 
 A simple and intuitive calculator app built to perform basic arithmetic operations like addition, subtraction, multiplication, and division. This project is ideal for those learning the fundamentals of front-end or logic-based programming.
+## 🌐 Live Demo
 
+Check out the live version of this calculator app here:  
+🔗 [Click to Open Calculator] https://tranquil-concha-67f73c.netlify.app/
 ## 🚀 Features
 
 - Basic arithmetic operations (+, −, ×, ÷)
